@@ -1,4 +1,4 @@
-package dev.wdrap.design.patterns;
+package dev.wdrap.design.patterns.creational.singleton;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package dev.wdrap.design.patterns;
+package dev.wdrap.design.patterns.creational.singleton;
 
 public enum EnumSingleton {
     INSTANCE;
